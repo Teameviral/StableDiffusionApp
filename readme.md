@@ -11,3 +11,10 @@
 ## Before running it, Install all dependencies
   
 - Remember that you need to install all dependencies by opening your command prompt and open it as an administrator then you can install torch, diffusers, transformer, and others that are required to run it.
+
+## How to run?
+
+- Download the zip file.
+- Unzip it.
+- Install neccessary libraries.
+- Run the app.py
