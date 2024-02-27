@@ -17,4 +17,5 @@
 - Download the zip file.
 - Unzip it.
 - Install neccessary libraries.
+- Update ```authtoken.py``` using your huggingface token.
 - Run the app.py
