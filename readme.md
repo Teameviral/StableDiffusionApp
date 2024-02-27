@@ -1,4 +1,4 @@
-## Bard LI
+## Stable Diffusion APP
 
 - Updated Version of [StableDiffusionApp](https://github.com/nicknochnack/StableDiffusionApp) Created By the [nicknochnack](https://github.com/nicknochnack).
 
