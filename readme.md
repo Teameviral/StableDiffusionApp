@@ -1,10 +1,10 @@
 ## Bard LI
 
-- Updated Version of Stable Bud Created By the [nicknochnack](https://github.com/nicknochnack/StableDiffusionApp)
+- Updated Version of [StableDiffusionApp](https://github.com/nicknochnack/StableDiffusionApp) Created By the [nicknochnack](https://github.com/nicknochnack).
 
-- This version can be used cpu instead of GPU
+- This version can be used using your cpu instead of GPU.
 
-- It might take time to generate images.
+- It might take some time to generate images.
 
 - Fixed all current customtkinter errors.
 
